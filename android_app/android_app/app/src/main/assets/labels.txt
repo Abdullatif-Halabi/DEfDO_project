@@ -1,4 +1,4 @@
-fork
-knife
-plate
-spoon
+car
+person
+traffic lights
+v_plate
