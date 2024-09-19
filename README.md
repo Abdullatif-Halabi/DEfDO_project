@@ -11,6 +11,7 @@
  - [Data Augmentation](#data-augmentation)
  - [Mobile App Integration](#mobile-app-integration)
  - [Performance Evaluation](#performance-evaluation)
+ - [Future Work](#Future-Work)
 
 
  ## Key Features
