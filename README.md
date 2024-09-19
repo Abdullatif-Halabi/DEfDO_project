@@ -18,7 +18,7 @@
  ## Project Structure
  - [**Colab Notebooks**](https://github.com/Abdullatif-Halabi/DEfDO_project/tree/main/Colab_Notebooks) :  contains Jupyter Notebooks that delve into data collection, preprocessing, model training, and evaluation. Notably, the notebooks explain the rationale behind selecting int8 quantization over pruning for model optimization, highlighting the advantages and considerations involved in this technique.
  
- - [**android_app**](https://github.com/Abdullatif-Halabi/DEfDO_project/tree/main/android_app) : Contains the source code for the mobile app, including the user interface and integration with the TFLite models. The app currently supports object detection with bounding boxes and labels. Soon it will enable depth estimation and distance display.
+ - [**android_app**](https://github.com/Abdullatif-Halabi/DEfDO_project/tree/main/android_app) : Contains the source code for the mobile app I took from [AarohiSingla](https://github.com/AarohiSingla/Object-Detection-Android-App), including the user interface and integration with the TFLite models. The app currently supports object detection with bounding boxes and labels. Soon it will enable depth estimation and distance display.
 
  - [**detection_models**](https://github.com/Abdullatif-Halabi/DEfDO_project/tree/main/detection_models) : Contains a collection of trained object detection models, each representing a version of the project's development.  A text file within this folder ([**Differences.txt**](https://github.com/Abdullatif-Halabi/DEfDO_project/blob/main/detection_models/Differences.txt)) provides a chronological overview of these models, highlighting the key differences in training data, parameters, and performance metrics.
 
